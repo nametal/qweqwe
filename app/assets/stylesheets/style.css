@@ -1,0 +1,58 @@
+<style type="text/css">
+
+body {
+	background: #99005C url(images/gradient.png) center 130px no-repeat;
+}
+
+#container {
+	width: 1000px;
+	overflow: hidden;
+	position: relative;
+	height: 450px;
+	margin: 0 auto;
+}
+
+#all_pages {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 3000px;
+}
+
+.page {
+	width: 1000px;
+	height: 400px;
+	float: left;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.page img {
+	margin-top: 50px;
+}
+
+#menu {
+	background: #000;
+}
+
+#menu ul {
+	list-style: none;
+	width: 457px;
+	height: 35px;
+	margin: auto;
+}
+
+#menu ul li {
+	float: left;
+	color: #888;
+	width: 150px;
+	line-height: 35px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.active {
+	color: #fff !important;
+}
+
+</style>
