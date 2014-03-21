@@ -1,1 +1,2 @@
 nanti buat ngelog
+log 2
