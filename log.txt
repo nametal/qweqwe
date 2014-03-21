@@ -1,2 +1,3 @@
 nanti buat ngelog
 log 2
+log 3
